@@ -1,1 +1,3 @@
-importamos ConstantSourceNode 
+importamos ConstantSourceNode  
+
+speechSynthesis
